@@ -8,6 +8,7 @@ _Live Example: https://nuxtjs-template.vercel.app_
 
 ## Setup
 
+
 Install the dependencies:
 
 ```bash
