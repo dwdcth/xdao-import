@@ -6,12 +6,12 @@ const golightHTML = `
 <head>
   <meta name="go-import" content="xdao.top/golight git https://github.com/dwdcth/golight">
   <meta name="go-source"
-    content="xdao.top/golight/main _ https://github.com/dwdcth/golight/tree/main{/dir} https://github.com/dwdcth/golight/tree/main{/dir}/{file}#L{line}">
-  <meta http-equiv="refresh" content="0; url=https://pkg.go.dev/xdao.top/golight/main">
+    content="xdao.top/golight _ https://github.com/dwdcth/golight/tree/main{/dir} https://github.com/dwdcth/golight/tree/main{/dir}/{file}#L{line}">
+  <meta http-equiv="refresh" content="0; url=https://pkg.go.dev/xdao.top/golight">
 </head>
 
 <body>
-  Nothing to see here. Please <a href="https://pkg.go.dev/xdao.top/golight/main">move along</a>.
+  Nothing to see here. Please <a href="https://pkg.go.dev/xdao.top/golight">move along</a>.
 </body>
 
 </html>
